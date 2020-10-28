@@ -1,0 +1,1 @@
+Course project to learn django and REST API
